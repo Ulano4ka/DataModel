@@ -1,0 +1,6 @@
+C:\Users\Юлия\Desktop\DataModel\DogKennel\DogKennel\bin\Debug\DogKennel.dll
+C:\Users\Юлия\Desktop\DataModel\DogKennel\DogKennel\bin\Debug\DogKennel.pdb
+C:\Users\Юлия\Desktop\DataModel\DogKennel\DogKennel\obj\Debug\DogKennel.csprojAssemblyReference.cache
+C:\Users\Юлия\Desktop\DataModel\DogKennel\DogKennel\obj\Debug\DogKennel.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\DataModel\DogKennel\DogKennel\obj\Debug\DogKennel.dll
+C:\Users\Юлия\Desktop\DataModel\DogKennel\DogKennel\obj\Debug\DogKennel.pdb

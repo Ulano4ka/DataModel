@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogKennel", "DogKennel\DogKennel.csproj", "{451CD524-FD8C-459B-98C6-18D487D86AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{451CD524-FD8C-459B-98C6-18D487D86AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451CD524-FD8C-459B-98C6-18D487D86AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451CD524-FD8C-459B-98C6-18D487D86AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451CD524-FD8C-459B-98C6-18D487D86AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A560B9CD-E28B-4972-9470-734708CE4AA4}
+	EndGlobalSection
+EndGlobal
